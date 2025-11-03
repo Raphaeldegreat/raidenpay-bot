@@ -1,3 +1,5 @@
 python-telegram-bot==20.5 
 flask
+web3
+eth-account
 
